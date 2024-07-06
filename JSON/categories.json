@@ -1,0 +1,67 @@
+{
+    "categories": [
+      {
+        "id": 1,
+        "name": "Islamic",
+        "books": [
+          { "id": 1, "name": "Book 1", "image": "images/islamic/book1.jpg", "author": "Author 1", "url": "https://example.com/book1" },
+          { "id": 2, "name": "Book 2", "image": "images/islamic/book2.jpg", "author": "Author 2", "url": "https://example.com/book2" },
+          { "id": 3, "name": "Book 3", "image": "images/islamic/book3.jpg", "author": "Author 3", "url": "https://example.com/book3" },
+          { "id": 4, "name": "Book 4", "image": "images/islamic/book4.jpg", "author": "Author 4", "url": "https://example.com/book4" }
+        
+        ]
+      },
+      {
+        "id": 2,
+        "name": "Programming",
+        "books": [
+          { "id": 5, "name": "Book 7", "image": "images/programming/book1.jpg", "author": "Author 5", "url": "https://example.com/book7" },
+          { "id": 6, "name": "Book 6", "image": "images/programming/book2.jpg", "author": "Author 6", "url": "https://example.com/book6" },
+          { "id": 7, "name": "Book 7", "image": "images/programming/book3.jpg", "author": "Author 7", "url": "https://example.com/book7" },
+          { "id": 8, "name": "Book 8", "image": "images/programming/book4.jpg", "author": "Author 8", "url": "https://example.com/book8" }
+        ]
+      },
+      {
+        "id": 3,
+        "name": "Politics",
+        "books": [
+          { "id": 9, "name": "Book 9", "image": "images/politics/book1.jpg", "author": "Author 9", "url": "https://example.com/book13" },
+          { "id": 10, "name": "Book 10", "image": "images/politics/book2.jpg", "author": "Author 10", "url": "https://example.com/book10" },
+          { "id": 11, "name": "Book 11", "image": "images/politics/book3.jpg", "author": "Author 11", "url": "https://example.com/book11" },
+          { "id": 12, "name": "Book 12", "image": "images/politics/book4.jpg", "author": "Author 12", "url": "https://example.com/book12" }
+        
+        ]
+      },
+      {
+        "id": 4,
+        "name": "History",
+        "books": [
+          { "id": 13, "name": "Book 13", "image": "images/history/book1.jpg", "author": "Author 13", "url": "https://example.com/book13" },
+          { "id": 14, "name": "Book 14", "image": "images/history/book2.jpg", "author": "Author 14", "url": "https://example.com/book14" },
+          { "id": 15, "name": "Book 15", "image": "images/history/book3.jpg", "author": "Author 15", "url": "https://example.com/book15" },
+          { "id": 16, "name": "Book 16", "image": "images/history/book4.jpg", "author": "Author 16", "url": "https://example.com/book16" }
+        ]
+      },
+      {
+        "id": 5,
+        "name": "News",
+        "books": [
+          { "id": 17, "name": "Book 17", "image": "images/news/book1.jpg", "author": "Author 17", "url": "https://example.com/book25" },
+          { "id": 18, "name": "Book 18", "image": "images/news/book2.jpg", "author": "Author 18", "url": "https://example.com/book18" },
+          { "id": 19, "name": "Book 19", "image": "images/news/book3.jpg", "author": "Author 19", "url": "https://example.com/book19" },
+          { "id": 20, "name": "Book 20", "image": "images/news/book4.jpg", "author": "Author 20", "url": "https://example.com/book20" }
+        ]
+      },
+      {
+        "id": 6,
+        "name": "Creative",
+        "books": [
+          { "id": 21, "name": "Book 21", "image": "images/creative/book1.jpg", "author": "Author 21", "url": "https://example.com/book21" },
+          { "id": 22, "name": "Book 22", "image": "images/creative/book2.jpg", "author": "Author 22", "url": "https://example.com/book22" },
+          { "id": 23, "name": "Book 23", "image": "images/creative/book3.jpg", "author": "Author 23", "url": "https://example.com/book23" },
+          { "id": 24, "name": "Book 24", "image": "images/creative/book4.jpg", "author": "Author 24", "url": "https://example.com/book24" }
+        ]
+      }
+    ]
+  }
+  
